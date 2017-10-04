@@ -11,3 +11,73 @@
 	width: 685px;
 	position: fixed;
 }
+#Container2{
+	margin-top: -8px;
+	height: 1050px;
+	width: 665px;
+	margin-right: -8px;
+	float: right;
+}
+.myname{
+	float: left;
+	margin-top: 100px;
+	margin-left: 76px;
+}
+.profpic{
+	margin-top: 200px;
+	margin-left: -450px;
+	position: absolute;
+}
+.motto{
+	margin-top: 520px;
+	margin-left: 121px;
+}
+.des{
+	font-size: 18px;
+	margin-left: 27px;
+}
+h3{
+	background-color: gray;
+	font-size: 30px;
+	margin-bottom:-5px;
+}
+.icon{ 
+	margin-top:14px;
+	margin-left: 5px;
+	float:left;
+	margin-right: 10px;
+}
+.icon0{ 
+	margin-left: 5px;
+	float:left;
+	margin-right: 10px;
+}
+.facebook{
+	margin-left: 3px;
+	margin-top: -350px;
+	position: absolute;
+}
+.twitter{
+	margin-top: -310px;
+	position: absolute;
+}
+.pinterest{
+	margin-left: 1px;
+	margin-top: -267px;
+	position: absolute;
+}
+.instagram{
+	margin-left: 3px;
+	margin-top: -224px;
+	position: absolute;
+}
+.yahoo{
+	margin-left: 3px;
+	margin-top: -184px;
+	position: absolute;
+}
+.gmail{
+	margin-left: 4px;
+	margin-top: -144px;
+	position: absolute;
+}

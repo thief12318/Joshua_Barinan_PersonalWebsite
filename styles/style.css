@@ -1,22 +1,13 @@
-#Container{
-	background-color: white;
-	height: 700px;
-	width: 600px;
-	margin-left:120px;
-	position:absolute;
+#MainContainer{
+	background-color: ;
+	height: 100%;
+	width: 100%;
 }
-h1{
-	font-size: 60px;
-}
-h3{
-	font-size: 30px;
-	margin-bottom:-5px;
-}
-.icon{
-	margin-top:14px;
-	margin-right: 5px;
-	float:left;
-}
-.des{
-	margin-left: 27px;
+#Container1{
+	margin-top: -8px;
+	margin-left: -8px;
+	background: url(file:///C:/Users/Thief/Desktop/Resume/images/background1.jpg);
+	height: 760px;
+	width: 685px;
+	position: fixed;
 }

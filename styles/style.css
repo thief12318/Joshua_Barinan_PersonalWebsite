@@ -6,51 +6,82 @@
 #Container1{
 	margin-top: -8px;
 	margin-left: -8px;
-	background: url(file:///C:/Users/Thief/Desktop/Resume/images/background1.jpg);
+	background-color: #e9ebee;
 	height: 760px;
-	width: 685px;
+	width: 635px;
 	position: fixed;
 }
+
 #Container2{
+	background-color: #e9ebee;
 	margin-top: -8px;
-	height: 1050px;
-	width: 665px;
-	margin-right: -8px;
+	margin-left: -41px;
+	height: 100%;
+	width: 715px;
 	float: right;
 }
+.s1{
+	
+	margin-left: 10px;
+	background: #fff;
+	width: 655px;
+
+}
+.s2{
+	background: #fff;
+	width: 685px;
+	
+}
+
+
+h3{ font-family: "Avenir LT W01_45 Book1475508",Helvetica,"Apple Color Emoji",sans-serif;
+	margin-top: 18px;
+	padding: 15px 0 0 0;
+	color: #365899;
+	font-size: 25px;
+	margin-bottom:-6px;
+	font-weight: normal;
+}
+.icon{ 
+	margin-top:17px;
+	margin-left: 15px;
+	float:left;
+	margin-right: 5px;
+}
 .myname{
+	
+	line-height: 1.4em;
+	font-family: "Miller Disp Lt",Georgia,"Apple Color Emoji",serif;
+	font-weight: normal;
+    margin: 0 0 1em;
 	float: left;
 	margin-top: 85px;
-	margin-left: 76px;
+	margin-left: 78px;
+	font-size: 73px;
 }
 .profpic{
 	margin-top: 185px;
-	margin-left: -450px;
+	margin-left: -435px;
 	position: absolute;
 }
 .motto{
 	margin-top: 500px;
-	margin-left: 121px;
+	margin-left: 110px;
 }
 .des{
-	font-size: 18px;
-	margin-left: 27px;
+	font-family: "Avenir LT W01_45 Book1475508",Helvetica,"Apple Color Emoji",sans-serif;
+	    font-weight: normal;
+	font-size: calc(0.29806259314456035vw + 13.71px);
+	margin-left: 35px;
+	padding-bottom:15px
+	
 }
-h3{
-	background-color: gray;
-	font-size: 30px;
-	margin-bottom:-5px;
-}
-.icon{ 
-	margin-top:12px;
-	margin-left: 5px;
-	float:left;
-	margin-right: 10px;
-}
+
 .icon0{ 
-	margin-left: 5px;
+	margin-top: 16px;
+	margin-left: 19px;
 	float:left;
-	margin-right: 10px;
+	margin-right: 7px;
 }
 .facebook{
 	margin-left: 3px;
